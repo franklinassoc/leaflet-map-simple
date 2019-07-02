@@ -1,9 +1,10 @@
 # leaflet-map-simple
-A simple Leaflet map template for new users to copy, modify, and experiment
+A simple Leaflet map template for new users to copy, modify, and experiment.
+This one uses Louisiana State Park locations as data.
 
-## Link to my live map (replace with link to your site)
+## Link to my live map
 
-https://datavizforall.github.io/leaflet-map-simple
+https://franklinassoc.github.io/leaflet-map-simple/
 
 ## Create your own version
 - See video with step-by-step tutorial at https://datavizforall.org

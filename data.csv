@@ -1,4 +1,23 @@
 Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
-Trinity College,"300 Summit St, Hartford CT 06106",41.745167,-72.69263,"300 SUMMIT ST, HARTFORD, CT, 06106",Exact,US Census
-Capital Community College,950 Main St Hartford CT 06103,41.768074,-72.673065,"950 MAIN ST, HARTFORD, CT, 06103",Exact,US Census
-University of Hartford,"200 Bloomfield Ave, West Hartford CT 06117",41.794655,-72.71764,"200 BLOOMFIELD AVE, WEST HARTFORD, CT, 06117",Exact,US Census
+Tickfaw State Park,"Louisiana Highway 1037  Springfield, La",30.4290563,-90.5487349,"LA-1037, Springfield, LA 70462, USA",Match,Google
+St Bernard State Park,"Louisiana Highway 39 2 Violet, La",29.868254,-89.8905634,"2 LA-39, St Bernard, LA 70085, USA",Match,Google
+South Toledo Bend State Park,"Hwy 191  Toro, La",31.280347,-93.5439194,"LA-191, Louisiana, USA",Match,Google
+Sam Houston Jones State Park,"Louisiana Highway 378  Lake Charles, La",30.2365034,-93.2576059,"LA-378, Lake Charles, LA, USA",Match,Google
+Poverty Point Reservoir State Park,"1500 Poverty Point Pkwy  Delhi, La",32.482759,-91.494054,"1500 Poverty Point Pkwy, Delhi, LA 71232, USA",Match,Google
+North Toledo Bend State Park,"La Highway 482  Zwolle, La",31.6309351,-93.6441441,"LA-482, Zwolle, LA, USA",Match,Google
+Lake Fausse Pointe State Park-St. Martin,"5400 West Atch. Levee Road  St. Martinville, La",30.0614475,-91.6084671,"Lake Fausse Pointe State Park, 5400 Levee Rd, St Martinville, LA 70582, USA",Partial Match,Google
+Lake Fausse Pointe State Park-Iberia Ph.,"5400 West Atch. Levee Road  St. Martinville, La",30.0614475,-91.6084671,"Lake Fausse Pointe State Park, 5400 Levee Rd, St Martinville, LA 70582, USA",Partial Match,Google
+New Lake D'Arbonne State Park,"Ph. Road 4410, South Of Hwy 2  Farmerville, La",32.7332315,-92.2397602,"4410 LA-2, Farmerville, LA 71241, USA",Match,Google
+Lake Claiborne State Park,"La Highway 146  Homer, La",32.7897006,-93.0554908,"LA-146, Homer, LA, USA",Match,Google
+Lake Bruin State Park,"Highway 604  St. Joseph, La",31.9341412,-91.2186484,"LA-604, Louisiana, USA",Match,Google
+Lake Bistineau State Park,"East Of Louisiana Highway 163  Doyline, La",32.535717,-93.4108575,"LA-163, Doyline, LA 71023, USA",Match,Google
+Caney Creek Lake State Park,"2 Miles South Of Hwy 4 And 3 Miles West Of Hwy 34 Womack, La",34.0522342,-118.2436849,"Los Angeles, CA, USA",Partial Match,Google
+Grand Isle State Park,"East End Of Grand Isle On La 1 (Adm Craik Drive) Grand Isle, La",29.2585446,-89.9539773,"Grand Isle State Park, 108 Admiral Craik Dr, Grand Isle, LA 70358, USA",Match,Google
+Fontainebleau State Park,"U.S. Highway 190  Mandeville, La",30.4627887,-90.0834101,"N Hwy 190, Louisiana 70433, USA",Match,Google
+Fairview Riverside State Park,"Louisiana Highway 22 At Fairvi Ew Drive Madisonville, La",30.4072526,-90.1405843,"LA-22 & Fairview Dr, 4, LA 70447, USA",Match,Google
+Cypremort Point State Park-Wlf Field Office,"La Highway 319  Cypremort Point, La",29.718461,-91.8715454,"LA-319, 1, LA 70538, USA",Match,Google
+Cypremort Point Boat Storage-Wlf,"Private Road Off Of La 319 At Cypremort Point Franklin, La",29.718461,-91.8715454,"LA-319, 1, LA 70538, USA",Partial Match,Google
+Chicot State Park,"Route 3, Box 494 -La Hwy 3042  Ville Platte, La",30.6924638,-92.2832878,"LA-3042, Ville Platte, LA, USA",Partial Match,Google
+Chemin A Haut State Park,"Rt 5 Off Highway 139  Bastrop, La",32.529123,-92.0341716,"5 LA-139, Monroe, LA 71203, USA",Match,Google
+Bogue Chitto State Park,"Highway 25  Franklinton, La",30.8456636,-90.156968,"LA-25, Franklinton, LA, USA",Match,Google
+Bayou Segnette State Park,"West Bank Expressway (Us 90) @ Drake Avenue Westwego, La",29.9109456,-90.1801551,"US-90 & Westbank Expy, Avondale, LA 70094, USA",Partial Match,Google
